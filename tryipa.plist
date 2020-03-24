@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0"> 
+  <dict> 
+    <key>items</key>  
+    <array> 
+      <dict> 
+        <dict> 
+          <key>title</key>  
+          <string>数货-sit</string>  
+          <key>kind</key>  
+          <string>software</string>  
+          <key>bundle-version</key>  
+          <string>4.8.8</string>  
+          <key>bundle-identifier</key>  
+          <string>com.imagedt.basho.sit</string> 
+        </dict>  
+        <key>metadata</key>  
+        <array> 
+          <dict> 
+            <key>url</key>  
+            <string>https://sit-imagedt-shelf.oss-cn-shenzhen.aliyuncs.com/7d/7dbb522fa19c1b64f06fbb7e8633e649.ipa</string>  
+            <key>kind</key>  
+            <string>software-package</string> 
+          </dict> 
+        </array>  
+        <key>assets</key> 
+      </dict> 
+    </array> 
+  </dict> 
+</plist>
